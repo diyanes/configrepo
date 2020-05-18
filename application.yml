@@ -8,4 +8,4 @@ app:
 db:
    connection: connection from config server
    host: localhost
-   port: 5020
+   port: 5080
