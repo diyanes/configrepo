@@ -1,0 +1,11 @@
+app:
+   name: Spring Config from Repo Server
+   welcome:
+      message: Welcome to ${app.name}
+   list: one,two,three, four
+   map: "{connection: 'pdp', user: 'pdp01', password: 'pdp01_st'}"
+
+db:
+   connection: connection from spring-config specific property
+   host: localhost
+   port: 5080
