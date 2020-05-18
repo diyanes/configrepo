@@ -7,5 +7,5 @@ app:
 
 db:
    connection: connection from spring-config specific property
-   host: localhost
-   port: 5080
+   host: updated-localhost
+   port: 508020
