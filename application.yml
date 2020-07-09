@@ -8,4 +8,4 @@ app:
 db:
    connection: connection from config server - app.yml
    host: localhost
-   port: 508010
+   #port: 508010
