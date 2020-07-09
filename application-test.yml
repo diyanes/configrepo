@@ -8,4 +8,4 @@ app:
 db:
    connection: connection from test property
    host: test
-   port: 20
+   #port: 20
