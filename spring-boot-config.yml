@@ -2,4 +2,4 @@ app:
    name: My App From YAML - Config Specific to MicroService
 db:
    #host: 127.101.10.0
-   connection: connection from config server -specific microservice
+   #connection: connection from config server -specific microservice
