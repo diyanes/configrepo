@@ -6,6 +6,6 @@ app:
    map: "{connection: 'pdp', user: 'pdp01', password: 'pdp01_st'}"
 
 db:
-   #connection: connection from config server
+   connection: connection from config server - app.yml
    host: localhost
    port: 5080
